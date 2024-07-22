@@ -1,0 +1,4 @@
+repository "IdleFarmTycoon@Dantistick@cloud"
+  path "/"
+    br "/main"
+    co "/main"
